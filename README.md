@@ -63,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ayush24107/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Ayush24107/Leetcode-Solutions/tree/master/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ayush24107/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ayush24107/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Ayush24107/Leetcode-Solutions/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ayush24107/Leetcode-Solutions/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ayush24107/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
